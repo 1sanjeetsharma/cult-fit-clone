@@ -1,0 +1,6 @@
+.box {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  font-size: 20px;
+}
