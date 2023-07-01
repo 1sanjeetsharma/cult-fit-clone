@@ -1,9 +1,9 @@
-import LandingPage from "./components/landingPage/LandingPage";
+import Body from "./components/body/body";
 function App() {
   return (
     <>
+      <Body></Body>
       <h1>Hello from app</h1>
-      <LandingPage />
     </>
   );
 }
