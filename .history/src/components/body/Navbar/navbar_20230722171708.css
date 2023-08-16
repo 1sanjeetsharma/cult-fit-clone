@@ -1,0 +1,8 @@
+nav {
+	height: 40px;
+	padding: 10px;
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+	background: #3f3f3f;
+}

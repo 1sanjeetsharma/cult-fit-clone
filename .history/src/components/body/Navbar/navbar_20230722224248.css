@@ -1,0 +1,33 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.Nav-container {
+	position: fixed;
+	/* display: flexbox; */
+	top: 0px;
+	height: 60px;
+	width: 100%;
+
+	/* align-content: center; */
+	/* text-align: center; */
+	background-color: #00000077;
+	box-sizing: border-box;
+	/* z-index: 2; */
+}
+
+.logo,
+.btn-img {
+	height: 31px;
+}
+nav {
+	display: flex;
+	/* margin: auto; */
+
+	/* align-items: center; */
+	line-height: 20px;
+	flex-flow: column;
+	/* justify-content: space-between; */
+}
+.tabs {
+}

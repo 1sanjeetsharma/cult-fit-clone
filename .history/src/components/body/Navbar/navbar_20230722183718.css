@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+Nav-container {
+	line-height: 20px;
+}
+nav {
+	/* padding: 10px;
+	height: 40px; */
+
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+	background: #3f3f3f;
+}

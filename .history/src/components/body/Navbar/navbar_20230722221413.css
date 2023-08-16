@@ -1,0 +1,18 @@
+.Nav-container {
+	position: fixed;
+	top: 0px;
+	line-height: 20px;
+	width: 100%;
+	background-color: #00000077;
+	box-sizing: border-box;
+	z-index: 2;
+}
+
+nav {
+	/* padding: 10px;
+	height: 40px; */
+
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+}

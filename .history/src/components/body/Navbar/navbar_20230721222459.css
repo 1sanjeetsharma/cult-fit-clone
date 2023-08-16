@@ -1,0 +1,5 @@
+nav {
+	display: flex;
+	flex-flow: row;
+	background: #3f3f3f;
+}

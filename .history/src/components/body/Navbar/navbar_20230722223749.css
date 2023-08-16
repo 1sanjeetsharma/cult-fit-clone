@@ -1,0 +1,34 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.Nav-container {
+	position: fixed;
+	display: flexbox;
+	top: 0px;
+
+	width: 100%;
+
+	/* align-content: center; */
+	/* text-align: center; */
+	background-color: #00000077;
+	box-sizing: border-box;
+	/* z-index: 2; */
+}
+
+.logo,
+.btn-img {
+	height: 31px;
+}
+nav {
+	display: flex;
+	/* padding: 10px;
+	height: 40px; */
+	margin: auto;
+	/* height: 60px; */
+	line-height: 20px;
+	flex-flow: row;
+	justify-content: space-between;
+}
+.tabs {
+}

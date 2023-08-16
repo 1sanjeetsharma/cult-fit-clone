@@ -1,0 +1,16 @@
+.Nav-container {
+	position: fixed;
+	line-height: 20px;
+	width: auto;
+	color: #333;
+	box-sizing: border-box;
+}
+
+nav {
+	/* padding: 10px;
+	height: 40px; */
+
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+}
